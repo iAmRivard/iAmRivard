@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👱 I’m dev from El Salvador :el_salvador:  
+- 👯 I’m looking to collaborate on collaborate in a position as a programmer backend developer / frontend developer.
 <!--
 **iAmRivard/iAmRivard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
